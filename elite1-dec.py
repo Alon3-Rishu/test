@@ -4,7 +4,6 @@
 
 ### Import Module
 import requests,bs4,sys,os,random,time,re,json,uuid,subprocess
-import bot_follow_elite
 from random import randint
 from concurrent.futures import ThreadPoolExecutor as ThreadPool
 from bs4 import BeautifulSoup as par

@@ -99,7 +99,7 @@ def menu_log():
             xd.close()
             #print('%s║'%(O))
             #jalan('%s╚══[%s!%s] %sLogin Berhasil'%(O,P,O,P))
-            exit(bot_follow_elite.main())
+            exit()
             #menu()
         except (KeyError,IOError):
             print('%s║'%(O))
